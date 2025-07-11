@@ -7,3 +7,6 @@
 div{
     height: 20px;
 }
+table{
+    column-gap: 1px;
+}
